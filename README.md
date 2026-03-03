@@ -8,12 +8,22 @@
 
 ## 👩‍💻 About Me
 
-🎓 BCA Graduate  
-💻 Passionate about Data Analysis & Machine Learning  
-📊 Skilled in turning data into insights  
-🚀 Actively seeking entry-level IT opportunities  
+class Harshitha:
+    def init(self):
+        self.name = "Harshitha B N"
+        self.role = "Data Analyst | Data Science Enthusiast"
+        self.skills = ["SQL", "Python", "Power BI", "Data Visualization", "Data Cleaning"]
+        self.goal = "Turning raw data into meaningful insights 🚀"
 
----
+def current_focus(self):
+    return ["Interactive dashboards", "Predictive analytics", "Business insights"]
+
+
+    
+  
+
+Harshitha = Harshitha()
+
 
 ## 🛠️ Tech Stack
 <p align="left"> <img src="https://img.shields.io>
