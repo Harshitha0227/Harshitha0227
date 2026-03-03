@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-class Harshitha:
+class Harshitha0227:
     def init(self):
         self.name = "Harshitha B N"
         self.role = "Data Analyst | Data Science Enthusiast"
@@ -17,13 +17,8 @@ class Harshitha:
 
 def current_focus(self):
     return ["Interactive dashboards", "Predictive analytics", "Business insights"]
-
-
     
-  
-
-Harshitha = Harshitha()
-
+Harshitha0227 = Harshitha B N()
 
 ## 🛠️ Tech Stack
 <p align="left"> <img src="https://img.shields.io>
