@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Harshitha B N – Data Analyst Portfolio</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Learner&center=true&width=500&height=60">
 </p>
 
 ---
