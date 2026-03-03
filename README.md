@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Harshitha Poojari
+# 👋 Hi, I'm Harshitha B N
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=📊Aspiring+Data+Analyst;🐍Python+Developer;Machine+Learning+Enthusiast;Power+BI+Learner&center=true&width=500&height=45">
 </p>
 
 ---
