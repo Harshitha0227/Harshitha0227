@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshitha
 
-<!--
-**Harshitha0227/Harshitha0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate  
+💻 Aspiring Data Analyst & IT Professional  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- SQL
+- Pandas
+- NumPy
+- Power BI
+- Machine Learning
+- Excel
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Brain Tumor Detection using CNN
+- Data Analysis Dashboard using Power BI
+
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/harshitha-b-n-852974394)
+- Email: (poojariharshitha899@gmail.com)
