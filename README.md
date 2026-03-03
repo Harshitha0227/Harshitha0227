@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harshitha B N
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=📊Aspiring+Data+Analyst;🐍Python+Developer;Machine+Learning+Enthusiast;Power+BI+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=✨HARSHITHA B N✨;📊Aspiring+Data+Analyst;🐍Python+Developer;Machine+Learning+Enthusiast;Power+BI+Learner&center=true&width=500&height=45">
 </p>
 
 ---
@@ -60,10 +60,6 @@ Harshitha = HarshithaBN()
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitha0227&layout=compact&theme=radical)
 
 ---
-## 🚀 GitHub Performance & Contributions
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Harshitha0227&theme=radical&hide_border=false)
-
 
 ## 👀 Profile Visitors
 
